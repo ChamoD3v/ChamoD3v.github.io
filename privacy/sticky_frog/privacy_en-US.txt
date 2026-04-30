@@ -1,11 +1,11 @@
-Privacy Policy for Sticky Frog
+﻿Privacy Policy for Sticky Frog
 Last updated: April 19, 2026
 
 Thank you for playing Sticky Frog. This policy explains what data is processed, for what purpose, and what options you have.
 
 1. Controller
 Sticky Frog
-Privacy contact: wcg.privacy@gmail.com
+Privacy contact: chamod3v@gmail.com
 
 2. Scope
 This policy applies to the Android game Sticky Frog.
@@ -63,7 +63,7 @@ Primary channel (request portal):
 https://forms.gle/Xr1puNcL5sDi64fD7
 
 Backup channel (email):
-wcg.privacy@gmail.com
+chamod3v@gmail.com
 
 Important identification note:
 - If we cannot reasonably identify you from the information provided, we may not be able to provide or delete specific individual records.
@@ -76,3 +76,4 @@ Sticky Frog is not specifically directed to children under 13.
 
 11. Changes to this policy
 We may update this policy to reflect legal, technical or product changes. The latest version will be published at this URL.
+

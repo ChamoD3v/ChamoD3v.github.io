@@ -1,11 +1,11 @@
-ChromaCore Privacy Policy
+﻿ChromaCore Privacy Policy
 Last updated: April 30, 2026
 
 Thanks for playing ChromaCore. This policy explains what data is processed, why, and what choices you have.
 
 1. Controller
 ChromaCore
-Privacy contact: wcg.privacy@gmail.com
+Privacy contact: chamod3v@gmail.com
 
 2. Scope
 This policy applies to the Android game ChromaCore.
@@ -65,7 +65,7 @@ Primary channel (request portal):
 https://forms.gle/Xr1puNcL5sDi64fD7
 
 Backup channel (email):
-wcg.privacy@gmail.com
+chamod3v@gmail.com
 
 Important identification note:
 - ChromaCore does not collect first-party telemetry, so there is no app-side dataset linked to a real-world identity that we could provide or delete.
@@ -76,3 +76,4 @@ ChromaCore is not specifically directed to children under 13.
 
 11. Changes to this policy
 We may update this policy for legal, technical or product changes. The latest version will be published at this URL.
+

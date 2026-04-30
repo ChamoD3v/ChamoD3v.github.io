@@ -1,11 +1,11 @@
-Datenschutzerklarung fur Sticky Frog
+﻿Datenschutzerklarung fur Sticky Frog
 Letzte Aktualisierung: 19. April 2026
 
 Danke, dass du Sticky Frog spielst. Diese Richtlinie erklaert, welche Daten verarbeitet werden, zu welchem Zweck und welche Optionen du hast.
 
 1. Verantwortlicher
 Sticky Frog
-Datenschutzkontakt: wcg.privacy@gmail.com
+Datenschutzkontakt: chamod3v@gmail.com
 
 2. Geltungsbereich
 Diese Richtlinie gilt fur das Android-Spiel Sticky Frog.
@@ -63,7 +63,7 @@ Primaerer Kanal (Anfrageportal):
 https://forms.gle/Xr1puNcL5sDi64fD7
 
 Alternativer Kanal (Backup-E-Mail):
-wcg.privacy@gmail.com
+chamod3v@gmail.com
 
 Wenn deine Anfrage Daten bei Google Play Games, AdMob oder Google-Konto betrifft, kann zusaetzlich die Nutzung der Google-Kontotools erforderlich sein.
 
@@ -72,3 +72,4 @@ Sticky Frog richtet sich nicht speziell an Kinder unter 13 Jahren.
 
 11. Aenderungen dieser Richtlinie
 Wir koennen diese Richtlinie aktualisieren, um rechtliche, technische oder Produktaenderungen abzubilden. Die aktuelle Version wird unter dieser URL veroeffentlicht.
+

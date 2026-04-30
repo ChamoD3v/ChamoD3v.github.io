@@ -1,11 +1,11 @@
-Datenschutzerklarung fur ChromaCore
+﻿Datenschutzerklarung fur ChromaCore
 Letzte Aktualisierung: 30. April 2026
 
 Danke, dass du ChromaCore spielst. Diese Richtlinie erklaert, welche Daten verarbeitet werden, warum und welche Optionen du hast.
 
 1. Verantwortlicher
 ChromaCore
-Datenschutzkontakt: wcg.privacy@gmail.com
+Datenschutzkontakt: chamod3v@gmail.com
 
 2. Geltungsbereich
 Diese Richtlinie gilt fur das Android-Spiel ChromaCore.
@@ -65,7 +65,7 @@ Primaerer Kanal (Anfrageportal):
 https://forms.gle/Xr1puNcL5sDi64fD7
 
 Alternativer Kanal (Backup-E-Mail):
-wcg.privacy@gmail.com
+chamod3v@gmail.com
 
 Wichtiger Hinweis zur Identifizierung:
 - ChromaCore erhebt keine eigene Telemetrie, daher gibt es app-seitig keinen Datensatz, der mit einer realen Identitaet verknuepft ist und den wir bereitstellen oder loeschen koennten.
@@ -76,3 +76,4 @@ ChromaCore richtet sich nicht speziell an Kinder unter 13 Jahren.
 
 11. Aenderungen dieser Richtlinie
 Wir koennen diese Richtlinie bei rechtlichen, technischen oder Produktaenderungen aktualisieren. Die aktuelle Version wird unter dieser URL veroeffentlicht.
+

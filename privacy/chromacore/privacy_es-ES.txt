@@ -1,11 +1,11 @@
-Politica de Privacidad de ChromaCore
+﻿Politica de Privacidad de ChromaCore
 Ultima actualizacion: 30 de abril de 2026
 
 Gracias por jugar a ChromaCore. Esta politica explica que datos se tratan, para que se usan y que opciones tienes.
 
 1. Responsable
 ChromaCore
-Contacto de privacidad: wcg.privacy@gmail.com
+Contacto de privacidad: chamod3v@gmail.com
 
 2. Alcance
 Esta politica aplica al juego ChromaCore para Android.
@@ -65,7 +65,7 @@ Canal principal (portal de solicitudes):
 https://forms.gle/Xr1puNcL5sDi64fD7
 
 Canal alternativo (email de respaldo):
-wcg.privacy@gmail.com
+chamod3v@gmail.com
 
 Importante sobre identificacion:
 - ChromaCore no recopila telemetria propia, por lo que no existe en el lado de la app un conjunto de datos vinculado a una identidad real que podamos entregar o borrar.
@@ -76,3 +76,4 @@ ChromaCore no esta dirigido especificamente a menores de 13 anos.
 
 11. Cambios en esta politica
 Podemos actualizar esta politica para reflejar cambios legales, tecnicos o de producto. La version vigente se publicara en esta URL.
+

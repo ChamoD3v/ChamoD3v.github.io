@@ -1,11 +1,11 @@
-Politique de confidentialite de Sticky Frog
+﻿Politique de confidentialite de Sticky Frog
 Derniere mise a jour : 19 avril 2026
 
 Merci de jouer a Sticky Frog. Cette politique explique quelles donnees sont traitees, pourquoi, et quelles options vous avez.
 
 1. Responsable
 Sticky Frog
-Contact confidentialite : wcg.privacy@gmail.com
+Contact confidentialite : chamod3v@gmail.com
 
 2. Portee
 Cette politique s'applique au jeu Android Sticky Frog.
@@ -63,7 +63,7 @@ Canal principal (portail de demandes) :
 https://forms.gle/Xr1puNcL5sDi64fD7
 
 Canal alternatif (email de secours) :
-wcg.privacy@gmail.com
+chamod3v@gmail.com
 
 Si votre demande concerne des donnees Google Play Games, AdMob ou compte Google, vous pouvez aussi devoir utiliser les outils de gestion de compte Google.
 
@@ -72,3 +72,4 @@ Sticky Frog n'est pas specifiquement destine aux enfants de moins de 13 ans.
 
 11. Modifications de cette politique
 Nous pouvons mettre a jour cette politique pour refleter des changements legaux, techniques ou produit. La version en vigueur sera publiee a cette URL.
+
