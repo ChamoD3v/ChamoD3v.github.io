@@ -44,6 +44,9 @@
     font-size: 0.9rem;
     margin: 0 0 1rem;
   }
+  .lang-block.loading {
+    color: var(--fg-muted);
+  }
 </style>
 </head>
 <body>
@@ -533,6 +536,100 @@
     const langSelect = document.getElementById('lang-select');
     const gameBlocks = Array.from(document.querySelectorAll('.privacy-block'));
     const allLangBlocks = Array.from(document.querySelectorAll('.lang-block'));
+    const loadedDocs = new Set();
+
+    function escapeHtml(value) {
+      return value.replace(/[&<>"']/g, char => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[char]));
+    }
+
+    function linkify(value) {
+      const escaped = escapeHtml(value);
+      return escaped.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+    }
+
+    function parseInline(value) {
+      const escaped = linkify(value);
+      return escaped.replace(/^([^:]+):\s*(.+)$/u, '<strong>$1:</strong> $2');
+    }
+
+    function renderTextPolicy(text) {
+      const lines = text.replace(/\r\n/g, '\n').split('\n');
+      const html = [];
+      let listOpen = false;
+
+      function closeList() {
+        if (listOpen) {
+          html.push('</ul>');
+          listOpen = false;
+        }
+      }
+
+      lines.forEach((rawLine, index) => {
+        const line = rawLine.trim();
+        if (!line) {
+          closeList();
+          return;
+        }
+
+        if (line.startsWith('- ')) {
+          if (!listOpen) {
+            html.push('<ul>');
+            listOpen = true;
+          }
+          html.push(`<li>${parseInline(line.slice(2))}</li>`);
+          return;
+        }
+
+        closeList();
+
+        if (index === 0) {
+          html.push(`<h2>${escapeHtml(line)}</h2>`);
+        } else if (/^(Ultima actualizacion|Last updated|Derniere mise a jour|Letzte Aktualisierung|Zuletzt aktualisiert)/i.test(line)) {
+          html.push(`<p class="doc-meta">${escapeHtml(line)}</p>`);
+        } else if (/^\d+\.\s+/.test(line)) {
+          html.push(`<h2>${escapeHtml(line)}</h2>`);
+        } else if (/^[A-Z]\)\s+/.test(line)) {
+          html.push(`<h3>${escapeHtml(line)}</h3>`);
+        } else if (/^https?:\/\//.test(line)) {
+          html.push(`<p>${linkify(line)}</p>`);
+        } else {
+          html.push(`<p>${parseInline(line)}</p>`);
+        }
+      });
+
+      closeList();
+      return html.join('\n');
+    }
+
+    async function loadPolicyText(game, lang) {
+      const section = document.querySelector(`.privacy-block[data-game="${game}"] .lang-block[data-lang="${lang}"]`);
+      if (!section) return;
+
+      const cacheKey = `${game}:${lang}`;
+      if (loadedDocs.has(cacheKey)) return;
+
+      const url = `privacy/${game}/privacy_${lang}.txt`;
+      section.classList.add('loading');
+
+      try {
+        const response = await fetch(url, { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`Could not load ${url}`);
+        }
+        section.innerHTML = renderTextPolicy(await response.text());
+        loadedDocs.add(cacheKey);
+      } catch (error) {
+        console.warn(error);
+      } finally {
+        section.classList.remove('loading');
+      }
+    }
 
     function applySelection() {
       const game = gameSelect.value;
@@ -548,6 +645,7 @@
       params.set('lang', lang);
       const newUrl = window.location.pathname + '?' + params.toString();
       window.history.replaceState(null, '', newUrl);
+      loadPolicyText(game, lang);
     }
 
     const params = new URLSearchParams(window.location.search);
