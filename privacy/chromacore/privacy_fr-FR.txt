@@ -1,14 +1,14 @@
-﻿Politique de confidentialite de ChromaCore
-Derniere mise a jour : 30 avril 2026
+Politique de confidentialite de Oriri
+Derniere mise a jour : 20 mai 2026
 
-Merci de jouer a ChromaCore. Cette politique explique quelles donnees sont traitees, pourquoi, et quelles options vous avez.
+Merci de jouer a Oriri. Cette politique explique quelles donnees sont traitees, pourquoi, et quelles options vous avez.
 
 1. Responsable
-ChromaCore
+Oriri
 Contact confidentialite : chamod3v@gmail.com
 
 2. Portee
-Cette politique s'applique au jeu Android ChromaCore.
+Cette politique s'applique au jeu Android Oriri.
 
 3. Donnees que nous pouvons traiter
 A) Donnees du jeu (locales)
@@ -24,7 +24,7 @@ C) Donnees publicitaires et de monetisation (Google AdMob)
 - Localisation approximative deduite du reseau/IP (pas de GPS precis via l'app).
 
 D) Telemetrie analytique propre
-- Aucune. ChromaCore n'envoie pas de telemetrie analytique propre. Aucun SDK Firebase Analytics ni equivalent n'est integre dans l'app.
+- Aucune. Oriri n'envoie pas de telemetrie analytique propre. Aucun SDK Firebase Analytics ni equivalent n'est integre dans l'app.
 
 4. Finalites
 Nous traitons des donnees pour :
@@ -42,7 +42,7 @@ Comportement important dans cette app :
 - Si le consentement n'est pas accorde, des annonces non personnalisees/limitees peuvent toujours etre affichees, selon la configuration et la disponibilite de Google.
 
 6. Services tiers
-ChromaCore utilise les services Google suivants :
+Oriri utilise les services Google suivants :
 - Google Play Games Services
 - Google AdMob
 
@@ -68,11 +68,11 @@ Canal alternatif (email de secours) :
 chamod3v@gmail.com
 
 Note importante sur l'identification :
-- ChromaCore ne collecte aucune telemetrie propre ; il n'existe donc aucun jeu de donnees cote app lie a une identite reelle que nous pourrions fournir ou supprimer.
+- Oriri ne collecte aucune telemetrie propre ; il n'existe donc aucun jeu de donnees cote app lie a une identite reelle que nous pourrions fournir ou supprimer.
 - Si votre demande concerne des donnees Google Play Games, AdMob ou compte Google, vous pouvez aussi devoir utiliser les outils de compte Google.
 
 10. Enfants
-ChromaCore n'est pas specifiquement destine aux enfants de moins de 13 ans.
+Oriri n'est pas specifiquement destine aux enfants de moins de 13 ans.
 
 11. Modifications de cette politique
 Nous pouvons mettre a jour cette politique pour des changements legaux, techniques ou produit. La version en vigueur sera publiee a cette URL.
