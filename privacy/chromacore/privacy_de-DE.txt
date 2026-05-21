@@ -1,11 +1,11 @@
-Datenschutzerklarung fur Oriri
+﻿Datenschutzerklarung fur Oriri
 Letzte Aktualisierung: 20. Mai 2026
 
 Danke, dass du Oriri spielst. Diese Richtlinie erklaert, welche Daten verarbeitet werden, warum und welche Optionen du hast.
 
 1. Verantwortlicher
 Oriri
-Datenschutzkontakt: chamod3v@gmail.com
+Datenschutzkontakt: chamod3v.cosmos195@passmail.net
 
 2. Geltungsbereich
 Diese Richtlinie gilt fur das Android-Spiel Oriri.
@@ -65,7 +65,7 @@ Primaerer Kanal (Anfrageportal):
 https://forms.gle/MkvDANMhpmfV3eP59
 
 Alternativer Kanal (Backup-E-Mail):
-chamod3v@gmail.com
+chamod3v.cosmos195@passmail.net
 
 Wichtiger Hinweis zur Identifizierung:
 - Oriri erhebt keine eigene Telemetrie, daher gibt es app-seitig keinen Datensatz, der mit einer realen Identitaet verknuepft ist und den wir bereitstellen oder loeschen koennten.

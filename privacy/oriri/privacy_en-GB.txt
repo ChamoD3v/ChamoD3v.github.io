@@ -1,11 +1,11 @@
-Oriri Privacy Policy
+﻿Oriri Privacy Policy
 Last updated: 20 May 2026
 
 Thanks for playing Oriri. This policy explains what data is processed, why, and what choices you have.
 
 1. Controller
 Oriri
-Privacy contact: chamod3v@gmail.com
+Privacy contact: chamod3v.cosmos195@passmail.net
 
 2. Scope
 This policy applies to the Android game Oriri.
@@ -65,7 +65,7 @@ Primary channel (request portal):
 https://forms.gle/MkvDANMhpmfV3eP59
 
 Backup channel (email):
-chamod3v@gmail.com
+chamod3v.cosmos195@passmail.net
 
 Important identification note:
 - Oriri does not collect first-party telemetry, so there is no app-side dataset linked to a real-world identity that we could provide or delete.

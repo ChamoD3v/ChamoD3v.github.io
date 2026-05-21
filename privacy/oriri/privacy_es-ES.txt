@@ -1,11 +1,11 @@
-Politica de Privacidad de Oriri
+﻿Politica de Privacidad de Oriri
 Ultima actualizacion: 20 de mayo de 2026
 
 Gracias por jugar a Oriri. Esta politica explica que datos se tratan, para que se usan y que opciones tienes.
 
 1. Responsable
 Oriri
-Contacto de privacidad: chamod3v@gmail.com
+Contacto de privacidad: chamod3v.cosmos195@passmail.net
 
 2. Alcance
 Esta politica aplica al juego Oriri para Android.
@@ -65,7 +65,7 @@ Canal principal (portal de solicitudes):
 https://forms.gle/MkvDANMhpmfV3eP59
 
 Canal alternativo (email de respaldo):
-chamod3v@gmail.com
+chamod3v.cosmos195@passmail.net
 
 Importante sobre identificacion:
 - Oriri no recopila telemetria propia, por lo que no existe en el lado de la app un conjunto de datos vinculado a una identidad real que podamos entregar o borrar.
