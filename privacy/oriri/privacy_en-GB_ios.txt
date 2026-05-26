@@ -1,0 +1,81 @@
+Oriri Privacy Policy
+Last updated: 26 May 2026
+
+Thanks for playing Oriri. This policy explains what data is processed in the iOS version, why, and what choices you have.
+
+1. Controller
+Oriri
+Privacy contact: chamod3v.cosmos195@passmail.net
+
+2. Scope
+This policy applies to the iOS game Oriri.
+
+3. Data we may process
+A) Game data (local)
+- High score, available energy, last daily recharge date, tutorial progress and audio settings.
+
+B) Apple Game Centre (if signed in)
+- Game Centre player identity.
+- Scores submitted to the leaderboard and related metadata.
+
+C) Advertising and monetisation data (Google AdMob)
+- IDFA (Apple's Identifier for Advertisers), subject to your ATT tracking permission.
+- Device data used by Google advert SDKs.
+- Advert request, load, impression and interaction signals for rewarded adverts.
+- Approximate location inferred by network/IP (no precise GPS from this app).
+
+D) First-party analytics telemetry
+- None. Oriri does not send first-party analytics telemetry. There is no Firebase Analytics or equivalent embedded in the app.
+
+4. Purposes
+We process data to:
+- Provide core gameplay and local progress.
+- Enable Apple Game Centre (sign-in and leaderboard).
+- Show rewarded adverts and measure advert performance.
+- Prevent abuse, fraud and policy violations.
+
+5. Advert tracking on iOS (ATT)
+On iOS, Apple requires apps to request permission before accessing the IDFA for personalised advertising. Oriri shows this system dialogue on launch.
+- If you grant permission, AdMob may use the IDFA for personalised adverts.
+- If you decline, AdMob operates without the IDFA and may show non-personalised or limited adverts.
+
+6. GDPR consent (EEA, UK, Switzerland)
+Where legally required, we request consent via Google UMP (User Messaging Platform).
+You can reopen privacy options from the in-game Privacy button on the main menu.
+
+7. Third-party services
+Oriri uses Apple and Google services:
+- Apple Game Centre
+- Google AdMob
+
+Processing by these providers is governed by their own policies:
+- Apple Privacy Policy: https://www.apple.com/legal/privacy/
+- Google Privacy Policy: https://policies.google.com/privacy
+- AdMob Policy: https://support.google.com/admob/answer/6128543
+
+8. Data sharing
+We do not sell personal data.
+Data required for Game Centre and advert monetisation may be shared with Apple and Google as service providers.
+
+9. Storage and retention
+- Local game data remains on your device until app data is deleted or the app is uninstalled.
+- Game Centre data is managed according to Apple's policies.
+- AdMob data may be retained according to Google's policies.
+- Email support requests may be retained as needed to handle your request and legal obligations.
+
+10. Your rights and deletion requests
+Primary channel (request portal):
+https://forms.gle/MkvDANMhpmfV3eP59
+
+Backup channel (email):
+chamod3v.cosmos195@passmail.net
+
+Important about identification:
+- Oriri does not collect first-party telemetry, so there is no app-side dataset linked to a real-world identity that we could provide or delete.
+- If your request involves Game Centre, AdMob or Google account data, you may also need to use the corresponding account control tools.
+
+11. Children
+Oriri is not specifically directed to children under 13.
+
+12. Changes to this policy
+We may update this policy to reflect legal, technical or product changes. The latest version will be published at this URL.

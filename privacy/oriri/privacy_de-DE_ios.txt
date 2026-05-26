@@ -1,0 +1,81 @@
+Datenschutzerklarung fur Oriri
+Zuletzt aktualisiert: 26. Mai 2026
+
+Danke, dass du Oriri spielst. Diese Richtlinie erklart, welche Daten in der iOS-Version verarbeitet werden, warum und welche Optionen du hast.
+
+1. Verantwortlicher
+Oriri
+Datenschutzkontakt: chamod3v.cosmos195@passmail.net
+
+2. Geltungsbereich
+Diese Richtlinie gilt fur das iOS-Spiel Oriri.
+
+3. Daten, die wir verarbeiten konnen
+A) Spieldaten (lokal)
+- Highscore, verfugbare Energie, Datum der letzten taglichen Aufladung, Tutorial-Fortschritt und Audio-Einstellungen.
+
+B) Apple Game Center (wenn angemeldet)
+- Game Center Spieleridentitat.
+- An das Leaderboard gesendete Punkte und zugehorige Metadaten.
+
+C) Werbung und Monetarisierung (Google AdMob)
+- IDFA (Apple Identifier for Advertisers), abhangig von deiner ATT-Tracking-Genehmigung.
+- Gerätedaten, die von Google-Werbe-SDKs verwendet werden.
+- Signale zu Anfrage, Laden, Impression und Interaktion fur Rewarded Ads.
+- Ungefahrer Standort aus Netzwerk/IP (kein prazises GPS aus der App).
+
+D) Eigene Analytics-Telemetrie
+- Keine. Oriri sendet keine eigene Analytics-Telemetrie. In der App ist kein Firebase Analytics oder vergleichbares SDK eingebettet.
+
+4. Zwecke
+Wir verarbeiten Daten, um:
+- Kernfunktionen des Spiels und lokalen Fortschritt bereitzustellen.
+- Apple Game Center zu aktivieren (Login und Leaderboard).
+- Rewarded Ads anzuzeigen und Anzeigenleistung zu messen.
+- Missbrauch, Betrug und Richtlinienverstoße zu verhindern.
+
+5. Werbe-Tracking auf iOS (ATT)
+Auf iOS verlangt Apple, dass Apps vor dem Zugriff auf die IDFA fur personalisierte Werbung eine Genehmigung einholen. Oriri zeigt diesen Systemdialog beim Start.
+- Wenn du zustimmst, kann AdMob die IDFA fur personalisierte Anzeigen nutzen.
+- Wenn du ablehnst, arbeitet AdMob ohne IDFA und kann nicht-personalisierte oder begrenzte Anzeigen anzeigen.
+
+6. DSGVO-Einwilligung (EWR, UK, Schweiz)
+Wenn gesetzlich erforderlich, fragen wir Einwilligung uber Google UMP (User Messaging Platform) ab.
+Datenschutzoptionen kannst du uber den Privacy-Button im Hauptmenu des Spiels erneut offnen.
+
+7. Dienste Dritter
+Oriri nutzt Apple- und Google-Dienste:
+- Apple Game Center
+- Google AdMob
+
+Die Verarbeitung durch diese Anbieter richtet sich nach deren eigenen Richtlinien:
+- Apple Datenschutzerklarung: https://www.apple.com/legal/privacy/
+- Google-Datenschutzerklarung: https://policies.google.com/privacy
+- AdMob-Richtlinie: https://support.google.com/admob/answer/6128543
+
+8. Datenweitergabe
+Wir verkaufen keine personenbezogenen Daten.
+Daten fur Game Center und Werbe-Monetarisierung konnen mit Apple und Google als Dienstleister geteilt werden.
+
+9. Speicherung und Aufbewahrung
+- Lokale Spieldaten bleiben auf deinem Gerat, bis App-Daten geloscht oder die App deinstalliert wird.
+- Game Center Daten werden nach Apples Richtlinien verwaltet.
+- AdMob-Daten konnen gemaß den Google-Richtlinien gespeichert werden.
+- Supportanfragen per E-Mail konnen zur Bearbeitung und fur rechtliche Pflichten gespeichert werden.
+
+10. Rechte und Loschanfragen
+Primarer Kanal (Anfrageportal):
+https://forms.gle/MkvDANMhpmfV3eP59
+
+Alternativer Kanal (E-Mail):
+chamod3v.cosmos195@passmail.net
+
+Wichtig zur Identifikation:
+- Oriri erhebt keine eigene Telemetrie, daher gibt es app-seitig keinen Datensatz, der mit einer realen Identitat verknupft ist und den wir bereitstellen oder loschen konnten.
+- Wenn deine Anfrage Game Center, AdMob oder Google-Konto-Daten betrifft, kann zusatzlich die Nutzung der entsprechenden Kontotools erforderlich sein.
+
+11. Kinder
+Oriri richtet sich nicht speziell an Kinder unter 13 Jahren.
+
+12. Anderungen dieser Richtlinie
+Wir konnen diese Richtlinie bei rechtlichen, technischen oder Produktanderungen aktualisieren. Die aktuelle Version wird unter dieser URL veroffentlicht.
