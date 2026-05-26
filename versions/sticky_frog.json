@@ -1,3 +1,6 @@
 {
-  "latest_version_code": 66
+  "latest_version_code": 66,
+  "test_ads": false,
+  "latest_version_code_ios": 1
+  "test_ads_ios":true
 }
