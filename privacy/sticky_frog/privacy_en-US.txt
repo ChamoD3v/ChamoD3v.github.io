@@ -1,80 +1,49 @@
-﻿Privacy Policy for Sticky Frog
-Last updated: April 19, 2026
+Privacy Policy for Sticky Frog
+Last updated: October 21, 2026
 
-Thank you for playing Sticky Frog. This policy explains what data is processed, for what purpose, and what options you have.
+This policy describes data handling in Sticky Frog 3.2.0 for Android. The game is published by ChamoD3v (Chamo).
 
-1. Controller
-Sticky Frog
-Privacy contact: chamod3v.cosmos195@passmail.net
-
-2. Scope
-This policy applies to the Android game Sticky Frog.
-
-3. Data we may process
-A) Game data (local and gameplay)
-- Progress, records, coins, unlocks, selected skins and settings.
-- Basic local gameplay state needed to run the game and show local prompts.
-
-B) Google Play Games data (if you sign in)
-- Google Play Games player identifier and profile name.
-- Leaderboard submissions and cloud save related metadata.
-
-C) Advertising and monetization data (Google AdMob)
-- Advertising ID / AD_ID and device identifiers used by Google advertising SDKs.
-- Ad request, load, impression and interaction signals.
-- Approximate location inferred by network/IP (not precise GPS from this app).
-
-4. Purposes
-We process data to:
-- Provide core game features and local progress.
-- Enable Google Play Games features (sign-in, leaderboard, cloud save).
-- Show rewarded ads and measure ad performance.
-- Prevent abuse, fraud and policy violations.
-
-5. Consent and privacy choices (EEE, UK, Switzerland)
-If required by law, we request consent through Google UMP (User Messaging Platform).
-You can open privacy options again from the in-game Privacy button.
-
-Important behavior in this app:
-- If consent is granted or not required, ads can operate normally.
-- If consent is not granted, ads may still be shown as non-personalized/limited ads, depending on Google settings and availability.
-
-6. Third-party services
-Sticky Frog uses Google services:
-- Google Play Games Services
-- Google AdMob
-
-Google policies apply to Google-side processing:
-- Google Privacy Policy: https://policies.google.com/privacy
-- Google Play Games Services Terms: https://developer.android.com/games/pgs/terms
-- AdMob Policy: https://support.google.com/admob/answer/6128543
-
-7. Data sharing
-We do not sell personal data.
-Data needed to provide Google Play Games and ad monetization features may be shared with Google as service provider.
-
-8. Storage and retention
-- Local game data is stored on your device and remains until you delete app data or uninstall.
-- Google Play Games and AdMob related data may be retained according to Google policies.
-- Support requests sent by email may be retained for as long as needed to resolve your request and legal obligations.
-
-9. Your rights and deletion requests
-Primary channel (request portal):
+1. Controller and contact
+ChamoD3v (Chamo)
+For privacy questions, access requests, or data deletion requests, email chamod3v.cosmos195@passmail.net or use this form:
 https://forms.gle/MkvDANMhpmfV3eP59
 
-Backup channel (email):
-chamod3v.cosmos195@passmail.net
+2. Game data
+The game stores progress, high scores, coins, missions, unlocked items, selected skins, and settings on your device. It also stores usage information needed for its features, such as days played and the status of prompts to rate or share the game.
+When cloud synchronization is available, saved progress and settings, including this usage information, are sent to the platform service so they can be restored and merged across devices. Personal photos, recordings, and documents are not uploaded.
 
-Important identification note:
-- If we cannot reasonably identify you from the information provided, we may not be able to provide or delete specific individual records.
-- In those cases, we will explain the limitation and, when applicable, redirect you to Google account tools for Play Games, Google account and ad preference data management.
+3. Platform services
+- Google Play Games: uses your player identity (identifier and profile name) to associate scores and saved games with your account. Sign-in may be automatic depending on your Play Games settings.
+- Cloud saves: progress and settings are sent to Google through Play Games Saved Games; this is not limited to metadata.
+- The Play Games SDK also collects analytics and diagnostic data to improve its stability and operation.
+- Ratings: if you choose to write a review, Google Play handles its submission and publication. The game does not receive the review text or rating.
 
-If your request involves Google Play Games, AdMob or Google account data, you may also need to use Google account controls and tools.
+4. Update checks
+At startup, the game requests a version file hosted on GitHub Pages over HTTPS. This request does not include your saved game or player identifier. GitHub receives the connection's IP address and logs it for security; it may process other technical request data under its privacy policy. Sticky Frog does not request access to your device's location or calculate your location.
 
-10. Children
-Sticky Frog is not specifically directed to children under 13.
+5. Advertising and earlier versions
+Version 3.2.0 does not display ads, include AdMob or its advertising consent form, or request advertising identifiers to serve ads. On iOS it does not request advertising tracking permission either.
+Earlier versions could include AdMob and its consent mechanisms. Updating does not automatically delete data those services previously processed; Google's policies govern its retention and controls.
 
-11. Changes to this policy
-We may update this policy to reflect legal, technical or product changes. The latest version will be published at this URL.
+6. Purposes and recipients
+Data is used to retain and synchronize progress, provide leaderboards, check for updates, maintain service stability and security, and respond to support requests. We do not sell personal data. Providers receive the data needed for their features and process it under their own policies. Profile and score visibility depend on platform settings.
+If you contact us, we process your contact address and the information you choose to send to handle your request. We retain those messages as needed to resolve it and meet applicable obligations. Google Forms provides the contact form.
 
+Provider policies and information:
+https://policies.google.com/privacy
+https://developer.android.com/games/pgs/data-collection
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
+7. Retention and deletion
+Local data remains until you delete it from your device or remove the game, subject to system backups. Uninstalling alone does not delete data stored by platform services. Providers apply their own retention periods; we do not set a single retention period for their records.
+You can manage sign-in and profile visibility in Play Games and delete Sticky Frog data through Google's tools. To prevent local progress from being synchronized again, also review the game data on your devices:
+https://support.google.com/googleplay/answer/9130646?hl=en
+
+8. Your choices and rights
+You can play without signing in to gaming services; leaderboards and synchronization depend on your account and platform availability. Subject to applicable law, you can request access, correction, or deletion and exercise other rights through the contact channels above. For data managed exclusively by a provider, we will direct you to its tools. We cannot access or delete records in provider systems that we do not have access to.
+
+9. Children
+Sticky Frog is not specifically directed to children under 13. If you believe a child has sent us personal information, contact us so we can review it and arrange deletion where appropriate.
+
+10. Changes to this policy
+We will update this policy when features or data handling change. The update date appears at the beginning.

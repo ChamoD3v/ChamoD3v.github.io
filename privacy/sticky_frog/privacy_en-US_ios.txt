@@ -1,0 +1,49 @@
+Privacy Policy for Sticky Frog
+Last updated: October 21, 2026
+
+This policy describes data handling in Sticky Frog 3.2.0 for iOS. The game is published by ChamoD3v (Chamo).
+
+1. Controller and contact
+ChamoD3v (Chamo)
+For privacy questions, access requests, or data deletion requests, email chamod3v.cosmos195@passmail.net or use this form:
+https://forms.gle/MkvDANMhpmfV3eP59
+
+2. Game data
+The game stores progress, high scores, coins, missions, unlocked items, selected skins, and settings on your device. It also stores usage information needed for its features, such as days played and the status of prompts to rate or share the game.
+When cloud synchronization is available, saved progress and settings, including this usage information, are sent to the platform service so they can be restored and merged across devices. Personal photos, recordings, and documents are not uploaded.
+
+3. Platform services
+- Apple Game Center: when you are signed in, it handles player identity and scores submitted to the leaderboard.
+- iCloud: when available for your account, it synchronizes game progress and settings through Apple's service. This synchronization is independent of Game Center sign-in.
+- Ratings: if you choose to write a review, the App Store handles its submission and publication. The game does not receive the review text or rating.
+
+4. Update checks
+At startup, the game requests a version file hosted on GitHub Pages over HTTPS. This request does not include your saved game or player identifier. GitHub receives the connection's IP address and logs it for security; it may process other technical request data under its privacy policy. Sticky Frog does not request access to your device's location or calculate your location.
+
+5. Advertising and earlier versions
+Version 3.2.0 does not display ads, include AdMob or its advertising consent form, or request advertising identifiers to serve ads. On iOS it does not request advertising tracking permission either.
+Earlier versions could include AdMob and its consent mechanisms. Updating does not automatically delete data those services previously processed; Google's policies govern its retention and controls.
+
+6. Purposes and recipients
+Data is used to retain and synchronize progress, provide leaderboards, check for updates, maintain service stability and security, and respond to support requests. We do not sell personal data. Providers receive the data needed for their features and process it under their own policies. Profile and score visibility depend on platform settings.
+If you contact us, we process your contact address and the information you choose to send to handle your request. We retain those messages as needed to resolve it and meet applicable obligations. Google Forms provides the contact form.
+
+Provider policies and information:
+https://www.apple.com/legal/privacy/
+https://www.apple.com/legal/privacy/data/en/game-center/
+https://policies.google.com/privacy
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+7. Retention and deletion
+Local data remains until you delete it from your device or remove the game, subject to system backups. Uninstalling alone does not delete data stored by platform services. Providers apply their own retention periods; we do not set a single retention period for their records.
+You can manage Game Center and iCloud in your Apple account settings and use Apple's privacy tools. If you want to delete synchronized progress, also review local copies to prevent them from being synchronized again:
+https://privacy.apple.com/
+
+8. Your choices and rights
+You can play without signing in to gaming services; leaderboards and synchronization depend on your account and platform availability. Subject to applicable law, you can request access, correction, or deletion and exercise other rights through the contact channels above. For data managed exclusively by a provider, we will direct you to its tools. We cannot access or delete records in provider systems that we do not have access to.
+
+9. Children
+Sticky Frog is not specifically directed to children under 13. If you believe a child has sent us personal information, contact us so we can review it and arrange deletion where appropriate.
+
+10. Changes to this policy
+We will update this policy when features or data handling change. The update date appears at the beginning.

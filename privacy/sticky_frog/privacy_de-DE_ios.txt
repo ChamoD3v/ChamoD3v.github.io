@@ -1,0 +1,49 @@
+Datenschutzerklärung für Sticky Frog
+Letzte Aktualisierung: 21. Oktober 2026
+
+Diese Erklärung beschreibt die Datenverarbeitung in Sticky Frog 3.2.0 für iOS. Das Spiel wird von ChamoD3v (Chamo) veröffentlicht.
+
+1. Verantwortlicher und Kontakt
+ChamoD3v (Chamo)
+Bei Datenschutzfragen sowie Auskunfts- oder Löschanfragen kannst du an chamod3v.cosmos195@passmail.net schreiben oder dieses Formular verwenden:
+https://forms.gle/MkvDANMhpmfV3eP59
+
+2. Spieldaten
+Das Spiel speichert Fortschritt, Highscores, Münzen, Missionen, freigeschaltete Gegenstände, ausgewählte Skins und Einstellungen auf deinem Gerät. Es speichert auch für seine Funktionen erforderliche Nutzungsdaten, etwa Spieltage und den Status der Aufforderungen, das Spiel zu bewerten oder zu teilen.
+Wenn die Cloud-Synchronisierung verfügbar ist, werden gespeicherter Fortschritt und Einstellungen einschließlich dieser Nutzungsdaten an den Plattformdienst gesendet, um sie auf mehreren Geräten wiederherzustellen und zusammenzuführen. Persönliche Fotos, Aufnahmen und Dokumente werden nicht hochgeladen.
+
+3. Plattformdienste
+- Apple Game Center: verwaltet bei angemeldeten Nutzern die Spieleridentität und die an die Bestenliste übermittelten Punktzahlen.
+- iCloud: synchronisiert Spielfortschritt und Einstellungen über Apples Dienst, sofern dieser für dein Konto verfügbar ist. Diese Synchronisierung ist unabhängig von der Anmeldung bei Game Center.
+- Bewertungen: Wenn du eine Rezension schreibst, übernimmt der App Store deren Übermittlung und Veröffentlichung. Das Spiel erhält weder den Text noch die Sternebewertung dieser Rezension.
+
+4. Prüfung auf Updates
+Beim Start ruft das Spiel über HTTPS eine Versionsdatei auf GitHub Pages ab. Die Anfrage enthält weder deinen Spielstand noch deine Spielerkennung. GitHub erhält die IP-Adresse der Verbindung und speichert sie zu Sicherheitszwecken; weitere technische Anfragedaten können gemäß der GitHub-Datenschutzerklärung verarbeitet werden. Sticky Frog fordert keinen Zugriff auf den Gerätestandort an und berechnet deinen Standort nicht.
+
+5. Werbung und frühere Versionen
+Version 3.2.0 zeigt keine Werbung, enthält weder AdMob noch dessen Werbe-Einwilligungsformular und fordert keine Werbe-IDs zur Anzeige von Werbung an. Unter iOS wird auch keine Erlaubnis für Werbetracking angefordert.
+Frühere Versionen konnten AdMob und dessen Einwilligungsmechanismen enthalten. Ein Update löscht nicht automatisch Daten, die diese Dienste bereits verarbeitet haben; ihre Aufbewahrung und Verwaltung richten sich nach den Richtlinien von Google.
+
+6. Zwecke und Empfänger
+Die Daten dienen dazu, Fortschritt zu speichern und zu synchronisieren, Bestenlisten bereitzustellen, auf Updates zu prüfen, Stabilität und Sicherheit der Dienste zu gewährleisten und Supportanfragen zu beantworten. Wir verkaufen keine personenbezogenen Daten. Anbieter erhalten die für ihre Funktionen benötigten Daten und verarbeiten sie nach ihren eigenen Richtlinien. Die Sichtbarkeit von Profil und Punktzahlen hängt von den Plattformeinstellungen ab.
+Wenn du uns kontaktierst, verarbeiten wir deine Kontaktadresse und die freiwillig übermittelten Informationen zur Bearbeitung deiner Anfrage. Wir bewahren diese Nachrichten so lange auf, wie es für die Bearbeitung und geltende Pflichten erforderlich ist. Das Kontaktformular wird über Google Forms bereitgestellt.
+
+Richtlinien und Informationen der Anbieter:
+https://www.apple.com/legal/privacy/
+https://www.apple.com/legal/privacy/data/en/game-center/
+https://policies.google.com/privacy
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+7. Speicherung und Löschung
+Lokale Daten bleiben gespeichert, bis du sie auf dem Gerät oder das Spiel löschst; Systemsicherungen können weiterhin bestehen. Eine Deinstallation allein löscht keine Daten bei den Plattformdiensten. Die Anbieter legen ihre eigenen Aufbewahrungsfristen fest; wir bestimmen keine einheitliche Frist für ihre Aufzeichnungen.
+Du kannst Game Center und iCloud in den Einstellungen deines Apple-Kontos verwalten und Apples Datenschutzwerkzeuge nutzen. Prüfe beim Löschen synchronisierter Fortschritte auch lokale Kopien, damit sie nicht erneut synchronisiert werden:
+https://privacy.apple.com/
+
+8. Deine Möglichkeiten und Rechte
+Du kannst ohne Anmeldung bei den Spieldiensten spielen; Bestenlisten und Synchronisierung hängen von deinem Konto und der Verfügbarkeit der Plattform ab. Nach geltendem Recht kannst du über die oben genannten Kontaktwege Auskunft, Berichtigung oder Löschung verlangen und weitere Rechte ausüben. Bei ausschließlich von einem Anbieter verwalteten Daten verweisen wir auf dessen Werkzeuge. Auf Aufzeichnungen in Anbietersystemen, auf die wir keinen Zugriff haben, können wir weder zugreifen noch sie löschen.
+
+9. Kinder
+Sticky Frog richtet sich nicht speziell an Kinder unter 13 Jahren. Wenn du vermutest, dass ein Kind uns personenbezogene Daten gesendet hat, kontaktiere uns, damit wir dies prüfen und gegebenenfalls die Löschung veranlassen können.
+
+10. Änderungen dieser Erklärung
+Wir aktualisieren diese Erklärung, wenn sich Funktionen oder die Datenverarbeitung ändern. Das Aktualisierungsdatum steht am Anfang.
